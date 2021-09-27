@@ -441,3 +441,11 @@ C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\bin\Debug\net5.0\Micr
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Views\Tareas\Index.cshtml.g.cs

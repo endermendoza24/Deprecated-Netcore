@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ListaToDo.Models
 {
-    public class Tareas
+    public class ToDoListItem
     {
         public int Id { get; set; }
 

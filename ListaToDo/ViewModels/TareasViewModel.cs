@@ -6,7 +6,7 @@ using Dapper;
 using ListaToDo.Helpers;
 using ListaToDo.Models;
 
-namespace TodoList.ViewModels
+namespace ListaToDo.ViewModels
 {
     public class TareasViewModel
     {
@@ -14,13 +14,13 @@ namespace TodoList.ViewModels
         {
             using (var db = DbHelper.GetConnection())
             {
-                this.EditableItem = new Tareas();
-                this.TodoItems = db.Query<Tareas>("SELECT * FROM ToDoListItem ORDER BY Fecha ASC").ToList();
+                this.EditableItem = new ToDoListItem();
+                this.TodoItems = db.Query<ToDoListItem>("SELECT * FROM ToDoListItems ORDER BY Fecha ASC").ToList();
             }
         }
 
-        public List<Tareas> TodoItems { get; set; }
+        public List<ToDoListItem> TodoItems { get; set; }
 
-        public Tareas EditableItem { get; set; }
+        public ToDoListItem EditableItem { get; set; }
     }
 }
