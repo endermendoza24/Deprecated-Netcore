@@ -10,15 +10,13 @@ namespace ListaToDo.Models
 {
     public class Categoria
     {
-        public List<Categoria> CategoriaInfo { get; set; }
-
+        
         public int Id { get; set; }
         [Required(ErrorMessage = "Ingrese el nombre de la categorías")]
         [MinLength(2, ErrorMessage = "Tienes menos de dos caracteres en el nombre")]
         [MaxLength(200, ErrorMessage = "Tienes muchos caracteres en el nombre")]
         public string Nombre { get; set; }
         public DateTime FechaCreacion { get; set; }
-
 
     }
 }

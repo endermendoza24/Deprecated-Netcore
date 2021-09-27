@@ -449,3 +449,4 @@ C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razo
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Views\Tareas\Index.cshtml.g.cs
+C:\Users\ENDERSSONMENDOZA\source\repos\ListaToDo\ListaToDo\obj\Debug\net5.0\Razor\Views\Categoria\Crear.cshtml.g.cs
